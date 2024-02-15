@@ -35,7 +35,7 @@ git clone https://github.com/borjagq/RTR-Reflection-and-refraction-models/
 
 # License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/borjagq/RTR-Reflectance-models/LICENSE/) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/borjagq/RTR-Reflection-and-refraction-models/LICENSE/) file for details
 
 # Acknowledgments
 
